@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adamjmcgrath/react-native-simple-auth"
+    "url": "https://github.com/Johnfredadams/react-native-simple-auth"
   },
-  "homepage": "https://github.com/adamjmcgrath/react-native-simple-auth",
+  "homepage": "https://github.com/Johnfredadams/react-native-simple-auth",
   "author": "Adam Mcgrath",
   "keywords": [
     "react-native",
@@ -23,7 +23,7 @@
     "simple-auth"
   ],
   "bugs": {
-    "url": "https://github.com/adamjmcgrath/react-native-simple-auth/issues"
+    "url": "https://github.com/Johnfredadams/react-native-simple-auth/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
